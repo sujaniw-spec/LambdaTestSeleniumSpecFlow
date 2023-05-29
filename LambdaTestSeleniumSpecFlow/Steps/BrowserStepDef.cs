@@ -9,7 +9,6 @@ using Xunit;
 namespace LambdaTestSeleniumSpecFlow.Steps
 {
     [Binding]
-   // [CollectionDefinition("SpecFlowNonParallelizableFeatures", DisableParallelization = false)]
  
     public sealed class BrowserStepDef
     {
